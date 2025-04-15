@@ -3,8 +3,10 @@ import React from 'react';
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg fixed-top">
-      <div className="container-fluid">
-        <a className="navbar-brand" href="#">Navbar</a>
+      <div className="container">
+      <a className="navbar-brand d-flex align-items-center" href="#">
+  <img src="/images/logo.webp" alt="Logo" width="130" height="130" className="d-inline-block align-text-top me-2" />
+</a>
         <button
           className="navbar-toggler"
           type="button"

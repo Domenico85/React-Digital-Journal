@@ -12,7 +12,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 .main {
   font-family: "Poppins", sans-serif;
@@ -52,4 +52,11 @@ body {
 
 .read-the-docs {
   color: #888;
+}
+
+.navbar {
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  top: -50px;
 }
