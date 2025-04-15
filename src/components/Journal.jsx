@@ -33,7 +33,7 @@ const Journal = () => {
   };
 
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 main">
       <h2 className="mb-4 text-center">📓 Digital Journal</h2>
 
       <div className="mb-3">
