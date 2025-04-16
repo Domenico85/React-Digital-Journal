@@ -76,3 +76,5 @@ The app will be available at http://localhost:5173.
 ### 📃 License
 
 MIT License. Free to use, modify, and share.
+
+### Made with ❤️ by DomDev
